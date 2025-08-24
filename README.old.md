@@ -1,1 +1,0 @@
-# elevvo-internship-task4-blog-homapage
