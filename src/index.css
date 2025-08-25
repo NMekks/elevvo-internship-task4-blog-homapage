@@ -4,10 +4,11 @@
 
 body {
   margin: 0 auto;
-  background: #fff2d7;
+  background: #fff6e2;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.blog-image {
+.navbar {
+  background: #f7c652;
 }
 
