@@ -29,32 +29,35 @@ const Blog = () => {
   }, [query, blogPosts]);
 
   return (
-    <div className="blog-homepage">
-      <div className="blog-image mx-12 mt-20 mb-8 w-60">
-        <img src="/blog-image.jpg" alt="" />
+    <div className="blog-homepage flex flex-col md:flex-row gap-24 mx-12 mt-20">
+      <div className="md:w-1/3 flex flex-col space-y-6">
+      <div className="blog-image w-60">
+        <img className="rounded-sm" src="/blog-image.jpg" alt="Blog Image" />
       </div>
+
       <div className="blog-intro">
-        <p className="w-64 justify-center mx-12">
+        <p className="w-60 justify-center">
           Welcome to my blog where i share my experiences with you all! Thank
           you checking out my page!
         </p>
       </div>
-      <div className="socials mx-12 my-4">
+      <div className="socials">
         <a href="#">Twitter |</a>
         <a href="#">Tumblr |</a>
         <a href="#">Instagram |</a>
         <a href="#">TikTok</a>
       </div>
       <div className="FAQ ">
-        <button className="FAQ-btn rounded-xl bg-amber-900 text-white px-24 py-1 mx-12">
+        <button className="FAQ-btn rounded-md w-56 bg-amber-900 text-white py-1">
           F.A.Q.
         </button>
       </div>
-      <div className="mx-12 mt-5">
+      <div className="mt-5">
         <BlogSearch query={query} setQuery={setQuery} />
       </div>
+      </div>
 
-      <div className="illustration-gallery">
+      <div className="illustration-gallery grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {(query ? results : blogPosts).map((post, idx) => (
           <BlogPosts
             key={idx}

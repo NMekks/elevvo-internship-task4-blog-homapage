@@ -2,7 +2,7 @@ import React from "react";
 
 const BlogPosts = ({ image, title, description, date}) => {
   return (
-        <div className="bg-white rounded-sm overflow-hidden flex flex-col border border-gray-600">
+        <div className="bg-white rounded-sm overflow-hidden flex flex-col border border-gray-300">
 
       
         <img
@@ -24,7 +24,7 @@ const BlogPosts = ({ image, title, description, date}) => {
           </p>
           <div className="flex justify-between items-center text-gray-500 text-sm mt-auto">
             <span>{date}</span>
-            <button className="bg-amber-900 text-white px-4 py-2 rounded-xl text-sm font-medium transition duration-300 ease-in-out hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-300 shadow-md">
+            <button className="bg-amber-900 text-white px-4 py-2 rounded-md text-sm font-medium">
               Read More
             </button>
           </div>
