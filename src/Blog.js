@@ -49,6 +49,7 @@ const Blog = () => {
           <a className=" text-amber-900 hover:text-amber-600" href="#">
             Tumblr{" "}
           </a>
+          |
           <a className=" text-amber-900 hover:text-amber-600" href="#">
             Instagram{" "}
           </a>
