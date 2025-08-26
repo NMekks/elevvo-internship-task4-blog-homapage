@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Why Functional Programming Matters in JavaScript",
+    "category": ["Technology", "Tech"],
+    "image": "https://placehold.co/600x400/F0FFFF/000?text=Functional+JS",
+    "description": "An introduction to functional programming principles and how they improve code clarity in JavaScript projects.",
+    "date": "2024-01-12"
+  },
+  {
+    "title": "Sailing the Mediterranean Coast",
+    "category": ["Journeys", "Travel"],
+    "image": "https://placehold.co/600x400/FFE4E1/000?text=Mediterranean+Sailing",
+    "description": "Experiencing turquoise waters, ancient ports, and local cuisines while sailing through southern Europe.",
+    "date": "2024-02-27"
+  },
+  {
+    "title": "Cooking with Fermentation: Kimchi, Kombucha & Beyond",
+    "category": ["Cuisine", "Food"],
+    "image": "https://placehold.co/600x400/F0FFF0/000?text=Fermented+Foods",
+    "description": "Discover the world of fermentation and how to make your own probiotic-rich dishes at home.",
+    "date": "2024-03-16"
+  },
+  {
+    "title": "Serverless Architectures Explained",
+    "category": ["Technology", "Tech"],
+    "image": "https://placehold.co/600x400/E0FFFF/000?text=Serverless",
+    "description": "A beginner-friendly guide to understanding the serverless model and when to use it in modern applications.",
+    "date": "2024-04-05"
+  },
+  {
+    "title": "Crossing Patagonia on Foot",
+    "category": ["Journeys", "Travel"],
+    "image": "https://placehold.co/600x400/F8F8FF/000?text=Patagonia+Trek",
+    "description": "A hiker’s dream: glaciers, windswept plains, and rugged peaks across the vast Patagonian wilderness.",
+    "date": "2024-05-21"
+  },
+  {
+    "title": "Comfort Foods Made Healthier",
+    "category": ["Cuisine", "Food"],
+    "image": "https://placehold.co/600x400/FFFACD/000?text=Healthy+Comfort+Food",
+    "description": "Classic comfort food recipes reimagined with nutritious twists that don’t sacrifice flavor.",
+    "date": "2024-06-07"
+  },
+  {
+    "title": "Exploring WebAssembly: The Future of the Web",
+    "category": ["Technology", "Tech"],
+    "image": "https://placehold.co/600x400/FFFAF0/000?text=WebAssembly",
+    "description": "Learn how WebAssembly is changing the performance game for browsers and web applications.",
+    "date": "2024-07-19"
+  },
+  {
+    "title": "Cycling Across The Netherlands",
+    "category": ["Journeys", "Travel"],
+    "image": "https://placehold.co/600x400/F0FFFF/000?text=Netherlands+Cycling",
+    "description": "Pedaling through windmills, tulip fields, and canal-side towns across one of the most bike-friendly countries in the world.",
+    "date": "2024-08-11"
+  },
+  {
+    "title": "Street Food Stories: From Bangkok to Mexico City",
+    "category": ["Cuisine", "Food"],
+    "image": "https://placehold.co/600x400/FAFAD2/000?text=Street+Food",
+    "description": "A culinary adventure exploring the world’s best street food cultures and must-try dishes.",
+    "date": "2024-09-29"
+  },
+  {
+    "title": "Practical Guide to Cloud Security",
+    "category": ["Technology", "Tech"],
+    "image": "https://placehold.co/600x400/E6E6FA/000?text=Cloud+Security",
+    "description": "Best practices for keeping data safe in AWS, Azure, and Google Cloud environments.",
+    "date": "2024-10-13"
+  },
+  {
+    "title": "Road Tripping Through New Zealand",
+    "category": ["Journeys", "Travel"],
+    "image": "https://placehold.co/600x400/FFF0F5/000?text=NZ+Road+Trip",
+    "description": "A two-week campervan adventure across mountains, fjords, and coastlines of New Zealand.",
+    "date": "2024-11-02"
+  },
+  {
+    "title": "Desserts Without the Guilt",
+    "category": ["Cuisine", "Food"],
+    "image": "https://placehold.co/600x400/F5F5DC/000?text=Healthy+Desserts",
+    "description": "Sweet recipes using natural sweeteners and wholesome ingredients for guilt-free indulgence.",
+    "date": "2024-12-15"
+  }
+]

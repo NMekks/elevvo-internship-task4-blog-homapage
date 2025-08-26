@@ -12,3 +12,25 @@ body {
   background: #f7c652;
 }
 
+.illustration-gallery {
+  margin-top: 5%;
+  line-height: 0;
+  -webkit-column-count: 5;
+  -webkit-column-gap: 0px;
+  -moz-column-count: 5;
+  -moz-column-gap: 0px;
+  column-count: 5;
+  column-gap: 5px;
+}
+
+.illustration-gallery img {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.illustration-gallery {
+  display: inline-block;
+  margin-right: auto;
+  margin-left: auto;
+}
