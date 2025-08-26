@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const BlogSearch = ({ query, setQuery }) => {
   return (
@@ -14,9 +14,9 @@ const BlogSearch = ({ query, setQuery }) => {
             aria-label="Search"
           />
         </form>
-      </div>    
+      </div>
     </div>
-  )
-}
+  );
+};
 
 export default BlogSearch;
