@@ -56,7 +56,7 @@ const Blog = () => {
     <div className="blog-homepage flex flex-col md:flex-row gap-24 mx-12 mt-20 mb-20">
       <div className="md:w-1/3 flex flex-col space-y-6">
         <div className="blog-image w-60">
-          <img className="rounded-sm" src="/blog-image.jpg" alt="Blog Image" />
+          <img className="rounded-sm" src={`${process.env.PUBLIC_URL}/blog-image.jpg`} alt="Blog Image" />
         </div>
 
         <div className="blog-intro">
