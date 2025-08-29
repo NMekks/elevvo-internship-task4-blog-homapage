@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/elevvo-internship-task4-blog-homapage/static/css/main.f217815e.css",
-    "main.js": "/elevvo-internship-task4-blog-homapage/static/js/main.92531307.js",
+    "main.js": "/elevvo-internship-task4-blog-homapage/static/js/main.94a283d4.js",
     "index.html": "/elevvo-internship-task4-blog-homapage/index.html",
     "main.f217815e.css.map": "/elevvo-internship-task4-blog-homapage/static/css/main.f217815e.css.map",
-    "main.92531307.js.map": "/elevvo-internship-task4-blog-homapage/static/js/main.92531307.js.map"
+    "main.94a283d4.js.map": "/elevvo-internship-task4-blog-homapage/static/js/main.94a283d4.js.map"
   },
   "entrypoints": [
     "static/css/main.f217815e.css",
-    "static/js/main.92531307.js"
+    "static/js/main.94a283d4.js"
   ]
 }
