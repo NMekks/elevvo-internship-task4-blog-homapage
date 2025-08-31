@@ -2,7 +2,7 @@ import React from "react";
 
 const BlogPosts = ({ image, title, description, date }) => {
   return (
-    <div className="flex flex-col bg-white shadow-md rounded-sm hover:transition hover:scale-105 border border-gray-300 overflow-hidden">
+    <div className="flex flex-col bg-white shadow-md rounded-md hover:transition hover:scale-105 border border-gray-300 overflow-hidden">
       <img
         src={image}
         alt={title}
